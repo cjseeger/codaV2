@@ -1,2 +1,2 @@
 # codaV2
-A test for Coda integration
+A test for Coda integration.
